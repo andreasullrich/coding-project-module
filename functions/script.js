@@ -19,7 +19,7 @@ function addPositive(number1, number2) {
 console.log(addPositive(2, 3));
 
 function addPositive(number1, number2) {
-  return number1 - -number2;
+  return number1 - number2;
 }
 console.log(addPositive(3, -5));
 
